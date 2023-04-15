@@ -15,6 +15,7 @@
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCardGUI](https://www.youtube.com/)
+- [PyGames Project](https://www.youtube.com/)
 
 <h2>🧑‍💻 Web Apps Projects:</h2>
 
