@@ -1,5 +1,10 @@
 <h1>Hi, I'm Nabin! </h1>
 
+
+- 🌱 I’m currently learning cybersecurity and programming.
+- 💬 Ask me about Penetration Testing,Cyber Security and Programming.
+- 📫 How to reach me: nabindhimal288@gmail.com
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
@@ -23,7 +28,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="NabinDhimal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NabinDhimal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="NabinDhimal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
