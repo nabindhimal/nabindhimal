@@ -17,6 +17,9 @@
 
 <h2> 📖 Certifications:</h2>
 
+- [LinkedIn Learning Certificates](https://github.com/)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
