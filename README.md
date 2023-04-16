@@ -9,7 +9,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/)
-  - [Python Port Scanner](https://github.com/)
+  - [Python Port Scanner](https://github.com/nabindhimal/PortScanner)
 
 
 <h2>🧑‍💻 Programming Projects:</h2>
