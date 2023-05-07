@@ -15,7 +15,6 @@
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCard](https://github.com/nabindhimal/JavaBankCard)
-- [Java BankCardGUI](https://www.youtube.com/)
 - [PyGames Project](https://github.com/nabindhimal/PyGames)
 
 <h2>🧑‍💻 Web Apps Projects:</h2>
