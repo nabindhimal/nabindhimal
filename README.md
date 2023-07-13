@@ -15,7 +15,7 @@
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCardGUI](https://github.com/nabindhimal/JavaBankCard)
-- [PyGames Project](https://github.com/nabindhimal/PyGames)
+<!--- [PyGames Project](https://github.com/nabindhimal/PyGames)-->
 
 <h2>🧑‍💻 Web Apps Projects:</h2>
 
@@ -33,7 +33,7 @@
 <!--[<img align="left" alt="NabinDhimal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 
-[instagram]: https://www.instagram.com/
+<!--[instagram]: https://www.instagram.com-->
 [linkedin]: https://linkedin.com/in/
 
 <!--
