@@ -15,7 +15,7 @@
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCardGUI](https://github.com/nabindhimal/JavaBankCard)
-- [Rust Password Generator](https://github.com/nabindhimal/)
+- [Rust Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
 <!--- [PyGames Project](https://github.com/nabindhimal/PyGames)-->
 
 <h2>🧑‍💻 Web Apps Projects:</h2>
