@@ -18,6 +18,7 @@
 
 <!--- [PyGames Project](https://github.com/nabindhimal/PyGames)-->
 <h2>🧑‍💻 Rust Projects:</h2>
+
 - [Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
 - [Password Strength Checker ](https://github.com/nabindhimal/.git)
 
