@@ -22,7 +22,7 @@
 - [Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
 - [Password Strength Checker ](https://github.com/nabindhimal/.git)
 
-<h2>🧑‍💻 Web Apps Projects:</h2>
+<h2>🧑‍💻 Web App Projects:</h2>
 
 - [Bonsai Store Website](https://github.com/nabindhimal/BonsaiWebsite)
 
