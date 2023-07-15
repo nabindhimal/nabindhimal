@@ -21,7 +21,7 @@
 <h2>🧑‍💻 Rust Projects:</h2>
 
 - [Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
-- [Password Strength Checker ](https://github.com/nabindhimal/.git)
+- [Password Strength Checker ](https://github.com/nabindhimal/Password-Strength-Checker)
 
 <h2>🧑‍💻 Web App Projects:</h2>
 
