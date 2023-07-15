@@ -15,6 +15,7 @@
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCardGUI](https://github.com/nabindhimal/JavaBankCard)
+- [Python_Store_Manager](https://github.com/nabindhimal/Python_STore_Manager)
 
 <!--- [PyGames Project](https://github.com/nabindhimal/PyGames)-->
 <h2>🧑‍💻 Rust Projects:</h2>
