@@ -35,12 +35,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="NabinDhimal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<!--[<img align="left" alt="NabinDhimal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]-->
 <!--[<img align="left" alt="NabinDhimal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+[<img align="left" alt="NabinDhimal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)
 
 
 <!--[instagram]: https://www.instagram.com-->
-[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)
+<!--[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)-->
 
 <!--
 **nabindhimal/nabindhimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
