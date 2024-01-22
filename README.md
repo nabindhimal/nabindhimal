@@ -40,7 +40,7 @@
 
 
 <!--[instagram]: https://www.instagram.com-->
-[linkedin]: https://linkedin.com/in/
+[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/nabin-dhimal-7979b3287/)
 
 <!--
 **nabindhimal/nabindhimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
