@@ -1,8 +1,8 @@
 <h1>Hi, I'm Nabin! </h1>
 
 
-- 🌱 I’m a computer science student .
-- 💬 Ask me about Cyber Security, Data Science and Programming.
+- 🌱 I’m a computer science student.
+- 💬 Ask me about Databases, Cyber Security, Data Science and Backend Development.
 - 📫 How to reach me: nabindhimal288@gmail.com
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
@@ -23,9 +23,6 @@
 - [Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
 - [Password Strength Checker ](https://github.com/nabindhimal/Password-Strength-Checker)
 
-<!--<h2>🧑‍💻 Web App Projects:</h2>
-
-- [Bonsai Store Website](https://github.com/nabindhimal/BonsaiWebsite)-->
 
 <h2> 📖 Certifications:</h2>
 
