@@ -24,6 +24,13 @@
 - [Password Strength Checker ](https://github.com/nabindhimal/Password-Strength-Checker)
 
 
+<h2>🧑‍💻 Web Apps:</h2>
+
+- [Recipe Manager](https://github.com/nabindhimal/Recipe-Manager.git)
+
+
+
+
 <h2> 📖 Certifications:</h2>
 
 - [Certificates](https://github.com/certificates)
