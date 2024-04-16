@@ -33,7 +33,7 @@
 
 <h2> 📖 Certifications:</h2>
 
-- [Certificates](https://github.com/certificates)
+- [Certificates](https://github.com/nabindhimal/certificates.git)
 
 
 <h2> 🤳 Connect with me:</h2>
