@@ -5,19 +5,12 @@
 - 💬 Ask me about Databases, Cyber Security, Data Science and Backend Development.
 - 📫 How to reach me: nabindhimal288@gmail.com
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-
-  <!--- [Active Directory Home Lab](https://github.com/)-->
-  - [Python Port Scanner](https://github.com/nabindhimal/PortScanner)
-
 
 <h2>🧑‍💻 Programming Projects:</h2>
 
 - [Java BankCardGUI](https://github.com/nabindhimal/JavaBankCard)
 - [Python_Store_Manager](https://github.com/nabindhimal/Python_STore_Manager)
 
-<!--- [PyGames Project](https://github.com/nabindhimal/PyGames)-->
 <h2>🧑‍💻 Rust Projects:</h2>
 
 - [Password Generator](https://github.com/nabindhimal/Rust-Password-Generator.git)
@@ -27,6 +20,7 @@
 <h2>🧑‍💻 Web Apps:</h2>
 
 - [Recipe Manager](https://github.com/nabindhimal/Recipe-Manager.git)
+- [Ecommerce-JSP-Servlet](https://github.com/nabindhimal/Ecommerce-JSP-Servlet.git)
 
 
 
